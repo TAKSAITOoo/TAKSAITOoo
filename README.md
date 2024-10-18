@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TAKSAITOoo
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning notion.
-- 📫 How to reach me  email.
+- 📫 How to reach me is email.
 
 <!---
 TAKSAITOoo/TAKSAITOoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
