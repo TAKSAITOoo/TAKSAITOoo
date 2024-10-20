@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAKSAITOoo
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning notion.
+- 👀 I’m interested in medical AI.
+- 🌱 I’m currently learning ChatGPT.
 - 📫 How to reach me is email.
 
 <!---
